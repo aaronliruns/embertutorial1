@@ -59,8 +59,11 @@ module.exports = function(environment) {
     ENV.APP.rootElement = '#ember-testing';
   }
 
+  //config/environment.js
   if (environment === 'production') {
-
+    ENV['ember-faker'] = {
+      enabled: true
+    };
   }
 
   return ENV;
