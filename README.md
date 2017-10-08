@@ -50,3 +50,6 @@ Specify what it takes to deploy your app.
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
 
 Online demo - https://embertutorial1-58186.firebaseapp.com
+
+### Send action explaination
+![](ember_send_action.png) 
